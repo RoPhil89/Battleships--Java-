@@ -1,7 +1,7 @@
 //This is a Battleship simulator on a 10x10 field. 
 //Each ship has a size of 3 fields.
 //All code handwritten and original.
-//Features a very simple AI that tries to sink the full ship (smartmode)
+//Features a simple Algorithm that tries to sink the full ship (smartmode)
 //For method declaration see bottom
 
 
